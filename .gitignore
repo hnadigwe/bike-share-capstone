@@ -1,0 +1,6 @@
+Data/Raw/*
+Data/Cleaned/*
+*.Rproj
+.Rhistory
+.RData
+ 
